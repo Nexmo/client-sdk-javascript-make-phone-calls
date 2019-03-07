@@ -1,0 +1,22 @@
+{
+  "name": "client-sdk-javascript-make-phone-calls",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nexmo/client-sdk-javascript-make-phone-calls.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nexmo/client-sdk-javascript-make-phone-calls/issues"
+  },
+  "homepage": "https://github.com/Nexmo/client-sdk-javascript-make-phone-calls#readme",
+  "dependencies": {
+    "nexmo-client": "^4.0.0"
+  }
+}
